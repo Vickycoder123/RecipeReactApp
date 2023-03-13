@@ -1,4 +1,4 @@
-#just follow the link to visit RecipeReactApp https://vickycoder123.github.io/RecipeReactApp/
+# Just follow the link to visit RecipeReactApp https://vickycoder123.github.io/RecipeReactApp/
 
 
 # Getting Started with Create React App
